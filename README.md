@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iisandeshpoudel
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Deeplearning
+- 💞️ I’m looking to collaborate on Python projects
+- 📫 You can me in instagram: @__thinzin__
